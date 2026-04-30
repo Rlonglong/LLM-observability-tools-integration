@@ -1,37 +1,5 @@
 ---
 title: 00_project_requirement
-
----
-
----
-title: 00_project_requirement
----
-# Project Requirement
-
-date: 2026/04/30\
-by WL, LIU\
-Licensed under CC BY 4.0. 
-
----
-
-## 專案主題
-**LLM observability tools**
-
-## 專題探索
-* 5/7 報告，每組報告時間 25分鐘
-* 組員介紹及分工、架構說明、系統展示、研究發現、心得分享
-
-## 評分方式
-* 完整性 35%
-    * 對於題目及其相關內容是否有充分瞭解、研究
-    * 講解是否清晰、完整，讓其他同學也能夠理解這個題目的知識
-* 心得分享 30%
-    * 研究後有何心得？ 有沒有改善建議？有沒有引發新想法？
-* 小組分工 15%
-    * 小組如何分工？使用了什麼工具協作、溝通？
-* 簡報形式 20%
-    * 時間掌握、表達方式、熟練程度、自信心---
-title: 00_project_requirement
 ---
 # Project Requirement
 
