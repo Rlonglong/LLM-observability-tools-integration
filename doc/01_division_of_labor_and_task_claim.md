@@ -30,7 +30,7 @@ Licensed under CC BY 4.0.
 > 填入方式：將連結中 `github.png` 改成 `[你的 github user name].png`、`https://github.com/github` 改成 `https://github.com/[你的 github user name]`。若不能理解可以參考 [我寫的方式](#1-系統架構與專案管理-1人)。
 
 ### 1. 系統架構與專案管理 PM (1人)
-*   **負責人：** <img src="https://images.weserv.nl/?url=github.com/Rlonglong.png&mask=circle" width="24" height="24" align="absmiddle"> [劉韋良](https://github.com/Rlonglong)
+*   **負責人：** <a href="https://github.com/Rlonglong"><img src="https://images.weserv.nl/?url=github.com/Rlonglong.png&mask=circle" width="24" height="24" align="absmiddle"> **劉韋良**</a>
 *   **任務重點 (佔評分 15% 小組分工)：** 
     *   建立 GitHub Repo
     *   規劃 Kanban 與分支保護規則
@@ -38,14 +38,14 @@ Licensed under CC BY 4.0.
     *   審核所有 PR (Pull Request)。
 
 ### 2. 核心概念與研究組 (2人)
-*   **負責人：** <img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [研究一](https://github.com/github)、<img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [研究二](https://github.com/github)
+*   **負責人：** <a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **研究一**</a>、<a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **研究二**</a>
 *   **任務重點 (佔評分 35%)：**
     *   以通俗易懂的方式解釋什麼是 LLM Observability (Tracing, Metrics, Evaluation)。
     *   收集 2-3 句 AI 領域知名大牛（如 Andrew Ng, Andrej Karpathy 等）或是相關文章對於「LLM Debug 困難點」或「黑盒子現象」的名言金句，用於心得分享作為客觀、有依據的觀點分析。
     *   簡單比較本次展示的兩款工具（LangSmith 著重生態系與除錯 vs Langfuse 著重儀表板與成本監控）。
 
 ### 3. Demo 實作與展示組 (2人)
-*   **負責人：** <img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [DEMO A](https://github.com/github)、<img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [DEMO B](https://github.com/github)
+*   **負責人：** <a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **DEMO A**</a>、<a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **DEMO B**</a>
 *   **任務重點 (佔評分 20% 現場展示)：**
     *   **Demo A 組 (LangSmith)：** 負責跑通單一 Agent 程式碼，加入簡單 UI。展示程式碼出錯時，如何從 LangSmith 後台瞬間找出是哪一個 Tool 壞掉。
     *   **Demo B 組 (Langfuse)：** 負責跑通 Multi-Agent 程式碼，加入簡單 UI。展示多代理運作時，如何透過 Langfuse 後台圖表抓出消耗了異常大量 Token 的「成本怪獸」。
@@ -53,7 +53,7 @@ Licensed under CC BY 4.0.
     *   可錄製一段順暢執行的螢幕錄影作為現場備案。報告時親自說明操作流程。
 
 ### 4. 實務心得與未來展望組 (3人)
-*   **負責人：** <img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [心得一](https://github.com/github)、<img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [心得二](https://github.com/github)、<img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> [心得三](https://github.com/github)
+*   **負責人：** <a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **心得一**</a>、<a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **心得二**</a>、<a href="https://github.com/github"><img src="https://images.weserv.nl/?url=github.com/github.png&mask=circle" width="24" height="24" align="absmiddle"> **心得三**</a>
 *   **任務重點 (佔評分 30% 核心關鍵)：**
     *   **實務痛點對比：** 訪談 Demo 組或親自試用，整理出一張對比圖表（例如：傳統 print debug vs 現代 Trace Tree 的具體差異）。
     *   **未來應用：** 探討這套系統未來如果套用到自己的專題，或是企業內部開發，能減少多少溝通成本與開發障礙。
